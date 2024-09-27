@@ -8,6 +8,6 @@ This repository is for practicing the GitHub Flow.
 [My LinkedIn](www.linkedin.com/in/cooper-kellenberger) 
 
 ### Extra Resources
-+I did not use extra resources
-+but here are some bullet points
+1. I did not use extra resources
+2. but here is a list
 
