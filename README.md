@@ -6,7 +6,8 @@ This repository is for practicing the GitHub Flow.
 **My name is Cooper Kellenberger and I am from Bettendorf, Iowa. I am currently a student at the university of Iowa. I am majoring in business analytics and information systems.**
 ### My LinkedIn
 [My LinkedIn](www.linkedin.com/in/cooper-kellenberger) 
-### Super important
-==This is super important== 
 
+### Extra Resources
++I did not use extra resources
++but here are some bullet points
 
